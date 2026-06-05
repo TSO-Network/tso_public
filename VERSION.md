@@ -1,18 +1,19 @@
-## v4.0.0
+## v1.0.0
 
-### Luna Framework
-- Added dashboard page
-- Added account card
-- Added reward system
-- Added streak tracking
-- Added page navigation
+### Lorem Ipsum
+- Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+- Maecenas id erat fermentum, lobortis diam id, mollis ante.
+- Vivamus vehicula orci et elit bibendum, eget molestie odio facilisis.
+- Phasellus quis dolor nec risus suscipit maximus.
 
-### Network
-- Added network status monitoring
+### Lorem Ipsum
+- Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+- Maecenas id erat fermentum, lobortis diam id, mollis ante.
+- Vivamus vehicula orci et elit bibendum, eget molestie odio facilisis.
+- Phasellus quis dolor nec risus suscipit maximus.
 
-### Api
-- Added new endpoints for dashboard data
-- Added new endpoints for account management
-
-### UI/UX
-- Improved overall design and user experience
+### Lorem Ipsum
+- Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+- Maecenas id erat fermentum, lobortis diam id, mollis ante.
+- Vivamus vehicula orci et elit bibendum, eget molestie odio facilisis.
+- Phasellus quis dolor nec risus suscipit maximus.
