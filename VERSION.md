@@ -13,3 +13,6 @@
 ### Api
 - Added new endpoints for dashboard data
 - Added new endpoints for account management
+
+### UI/UX
+- Improved overall design and user experience
