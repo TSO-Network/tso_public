@@ -1,15 +1,15 @@
 ## v4.0.0
 
-## Luna Framework
+### Luna Framework
 - Added dashboard page
 - Added account card
 - Added reward system
 - Added streak tracking
 - Added page navigation
 
-## Network
+### Network
 - Added network status monitoring
 
-## Api
+### Api
 - Added new endpoints for dashboard data
 - Added new endpoints for account management
