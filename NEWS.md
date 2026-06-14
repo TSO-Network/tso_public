@@ -13,4 +13,4 @@ We will be rolling out updates to the servers over the next few weeks/months bri
 - New Challenges System
 - New Casino System
 
-We would also like the announce the return of TSORP. With alot more custom content and features than before, we are excited to see the community enjoy this new experience.
+We would also like the announce the return of TSORP. With alot more custom content and features than before, we are excited to see the community's response to the coming changes.
