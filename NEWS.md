@@ -1,19 +1,16 @@
 ## Season 4 Launch
 
-### 26 August 2025
+### 14 June 2026
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam at mollis eros. Ut a dolor sapien. Quisque luctus velit sem, non posuere elit egestas sed. Nunc rhoncus pharetra nisi at tempus. Duis vitae ante velit. Donec ullamcorper elit in quam elementum mattis. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Suspendisse ultrices blandit nibh, id porttitor nunc congue non. Morbi aliquet, odio id sagittis vehicula, turpis velit dapibus est, eu fermentum leo massa eget sem. Nullam luctus quam quis vulputate fringilla. Duis nec ultricies ante. Praesent vestibulum in metus vel ullamcorper. Proin sapien quam, bibendum non ultricies eleifend, suscipit vel nibh.
+Welcome to the launch of Season 4!
 
-Donec et malesuada ipsum. Morbi elit nisl, pretium scelerisque lacus rutrum, posuere ullamcorper lacus. Mauris auctor dolor eu venenatis gravida. Maecenas sed mauris pulvinar, scelerisque erat id, facilisis velit. Aenean egestas id turpis nec lobortis. Nulla maximus bibendum volutpat. Integer quis feugiat nunc. Curabitur quis convallis erat. Nam viverra ex ante, ac commodo nisi fringilla condimentum. Phasellus at posuere nisi. In eu risus sit amet lacus mollis tempus sed vel tortor. Suspendisse nec risus vulputate, hendrerit nulla eget, tempus turpis. Quisque feugiat, ligula ac ullamcorper porta, tortor tellus interdum sem, ac vestibulum magna justo eget lorem.
+While the main focus leading us to this moment has been Improving alot of the backend systems, doing so has allowed us to make some significant improvements to servers and how they perform.
 
-Sed consequat pellentesque iaculis. Nulla cursus molestie pulvinar. Nulla facilisi. Donec pretium, ligula in iaculis laoreet, lectus dui pulvinar dui, vel sodales nibh dolor non felis. Fusce quis arcu sit amet nisi imperdiet egestas quis in mi. Donec metus ante, commodo a tortor et, consectetur pretium est. Nam vel diam consectetur, facilisis justo ut, imperdiet enim. Proin consectetur et enim a lacinia. Donec vitae quam felis. Aliquam condimentum, nunc a pharetra auctor, risus sapien ullamcorper ante, vitae aliquam mi nisl mollis nisi. Vivamus condimentum commodo erat, in tincidunt felis mollis ut. Nulla hendrerit massa et vestibulum lobortis.
+We will be rolling out updates to the servers over the next few weeks/months bringing you new features such as:
 
-Vestibulum consectetur orci lorem, ut porttitor odio gravida in. Quisque sagittis purus justo. Cras at augue nisi. Vestibulum faucibus ligula est, in euismod mi aliquet id. Maecenas tincidunt vel enim vitae molestie. Vestibulum imperdiet ligula ipsum, eget aliquam lectus fermentum ut. Etiam fermentum non dui eu sollicitudin. Aenean ornare ultrices purus, sed tincidunt velit.
+- New Battle Pass System
+- New Achievements System
+- New Challenges System
+- New Casino System
 
-In hac habitasse platea dictumst. Sed convallis accumsan libero in cursus. Morbi placerat fermentum fringilla. Etiam commodo dui a est laoreet faucibus. Praesent tristique accumsan consequat. Nulla nec neque quis ligula sollicitudin pellentesque. Curabitur at interdum nisi. Morbi consequat in metus ut fermentum. Fusce ultrices mattis velit, eu rhoncus nunc elementum nec. Duis sit amet tellus vel erat sodales varius eu quis purus. Cras nec orci elementum, pellentesque ex a, semper ipsum. Nullam quis gravida mauris. Cras vulputate tortor nec dui feugiat posuere. In lacinia neque eget aliquam sodales. Fusce fringilla lorem non malesuada mattis. 
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus at viverra ex, non finibus nisl. Integer sit amet leo et ante dapibus ornare. In nec mi eget felis lobortis hendrerit sed quis orci. Sed volutpat, leo eu sodales pretium, justo purus finibus mauris, vel scelerisque sapien velit eu mi. Vivamus eu nunc quis enim tempor molestie sed in lectus. Duis finibus nisi et vulputate euismod. Curabitur porttitor lorem quam, a dapibus sem commodo vitae. Phasellus risus nulla, dignissim non lacus tincidunt, molestie lacinia libero. Aliquam fringilla lobortis eros. Morbi luctus rhoncus orci, elementum viverra arcu posuere sed. Integer lacus est, faucibus a tempus quis, pellentesque eget tellus.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus sit amet arcu blandit, ullamcorper diam vitae, euismod ipsum. Cras quis rutrum massa. Proin est nulla, malesuada nec quam eu, elementum efficitur sapien. Praesent commodo porttitor erat. Nunc convallis, sapien vel ullamcorper rhoncus, nulla neque vulputate felis, a vestibulum massa risus non lorem. Cras quis lectus sit amet ante rhoncus laoreet at sed arcu. Nam hendrerit dapibus feugiat. Etiam dictum et felis in viverra. Maecenas gravida mi at lectus convallis, vel molestie nunc rutrum. Sed a massa ac dui rhoncus elementum.
-
-Nam ornare nibh elit, vel tincidunt sapien euismod non. Quisque bibendum quis augue vitae tempus. Interdum et malesuada fames ac ante ipsum primis in faucibus. Proin nibh lacus, maximus non velit non, pellentesque porta ipsum. Pellentesque efficitur turpis nec arcu dictum, eu tristique velit dapibus. Fusce nisl arcu, lacinia nec rhoncus vitae, placerat eget neque. Curabitur posuere neque neque, non gravida nibh condimentum vel. 
+We would also like the announce the return of TSORP. With alot more custom content and features than before, we are excited to see the community enjoy this new experience.

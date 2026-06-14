@@ -1,37 +1,22 @@
-## v1.0.0
+## v4.0.0
 
-### Lorem Ipsum
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-- Maecenas id erat fermentum, lobortis diam id, mollis ante.
-- Vivamus vehicula orci et elit bibendum, eget molestie odio facilisis.
-- Phasellus quis dolor nec risus suscipit maximus.
+### UI
+- New Cleaner UI
+- Complete re-code of the Network Backend
+- Complete re-code of the API
+- Complete re-code of the luna framework.
 
-### Lorem Ipsum
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-- Maecenas id erat fermentum, lobortis diam id, mollis ante.
-- Vivamus vehicula orci et elit bibendum, eget molestie odio facilisis.
-- Phasellus quis dolor nec risus suscipit maximus.
+### aShop Improvements
+- Created dedicated inventory tab
+- Created dedicated shop tab
+- Added ability to set prices for items without them being buyable
 
-### Lorem Ipsum
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-- Maecenas id erat fermentum, lobortis diam id, mollis ante.
-- Vivamus vehicula orci et elit bibendum, eget molestie odio facilisis.
-- Phasellus quis dolor nec risus suscipit maximus.
+### Movement Gamemodes & TSO Base
+- Re-coded TSO Base, improved performance and stability
+- Re-coded all movement gamemodes
 
-### Lorem Ipsum
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-- Maecenas id erat fermentum, lobortis diam id, mollis ante.
-- Vivamus vehicula orci et elit bibendum, eget molestie odio facilisis.
-- Phasellus quis dolor nec risus suscipit maximus.
+### Vault Improvements
+- Re-coded and will be live soon.
 
-### Lorem Ipsum
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-- Maecenas id erat fermentum, lobortis diam id, mollis ante.
-- Vivamus vehicula orci et elit bibendum, eget molestie odio facilisis.
-- Phasellus quis dolor nec risus suscipit maximus.
-
-### Lorem Ipsum
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-- Maecenas id erat fermentum, lobortis diam id, mollis ante.
-- Vivamus vehicula orci et elit bibendum, eget molestie odio facilisis.
-- Phasellus quis dolor nec risus suscipit maximus.
+### Dashboard
+- Re-coded and will be live soon.
