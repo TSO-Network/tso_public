@@ -6,7 +6,7 @@ We're looking for Beta Testers for the new TSO RP Server (DarkRP)!
 
 If you're interested, join our Discord here: https://discord.tso.gg
 
-# Good News:
+Good News:
 - No criteria — Anyone can apply!
 - You'll receive the DarkRP Beta Tester role permanently on Discord
 
