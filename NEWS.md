@@ -1,11 +1,22 @@
 ## Beta Testers Wanted
 
-### 18 June 2026
+## 18 June 2026
 
-We are currently looking for a mixture of Beta Testers For the new TSO RP Server, If you sre interested please join the discord server https://discord.tso.gg
+We're looking for Beta Testers for the new TSO RP Server (DarkRP)!
 
-There is no criteria you need to meet to become a beta tester, You will be given the DarkRP Beta Tester role permanently on discord.
+If you're interested, join our Discord here: https://discord.tso.gg
 
-During the beta phase, We will be looking for bugs in the map, areas that can be improved, Economy balancing, New jobs you think would be good additions to the server, and what ever other ideas you can think of.
+### Good News:
+- No criteria — Anyone can apply!
+- You'll receive the DarkRP Beta Tester role permanently on Discord
 
-- The TSO Team
+During the beta phase, we’re looking for your help with:
+- Finding bugs in the map
+- Areas that can be improved
+- Economy balancing
+- New job ideas
+- Any other suggestions or quality-of-life improvements
+
+The more feedback the better — help us shape the server before official launch!
+
+— The TSO Team
