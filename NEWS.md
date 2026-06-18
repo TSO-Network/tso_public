@@ -1,16 +1,11 @@
-## Season 4 Launch
+## Beta Testers Wanted
 
-### 14 June 2026
+### 18 June 2026
 
-Welcome to the launch of Season 4!
+We are currently looking for a mixture of Beta Testers For the new TSO RP Server, If you sre interested please join the discord server https://discord.tso.gg
 
-While the main focus leading us to this moment has been Improving alot of the backend systems, doing so has allowed us to make some significant improvements to servers and how they perform.
+There is criteria you need to meet to become a beta tester, You will be given the DarkRP Beta Tester role permanently on discord.
 
-We will be rolling out updates to the servers over the next few weeks/months bringing you new features such as:
+During the beta phase, We will be looking for bugs in the map, areas that can be improved, Economy balancing, New jobs you think would be good additions to the server, and what ever other ideas you can think of.
 
-- New Battle Pass System
-- New Achievements System
-- New Challenges System
-- New Casino System
-
-We would also like the announce the return of TSORP. With alot more custom content and features than before, we are excited to see the community's response to the coming changes.
+- The TSO Team
